@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667776641 source:c:\users\user\documents\kuliah\matkul\strukdat\tp\tp7\cll.cpp
+	"CLL.h"
+
+1667775988 c:\users\user\documents\kuliah\matkul\strukdat\tp\tp7\cll.h
+	<iostream>
+
+1667776949 source:c:\users\user\documents\kuliah\matkul\strukdat\tp\tp7\main.cpp
+	"CLL.h"
+
