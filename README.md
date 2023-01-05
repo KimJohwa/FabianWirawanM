@@ -1,5 +1,5 @@
-# FabianWirawanM
-Tugas WGTIK
+# Tugas WGTIK Pertemuan 14
+
 Aku Fabian Wirawan Mahmudin, saat ini aku adalah mahasiswa S1 Informatika Telkom University
 
 💻 Aku tertarik menjadi UI/UX Designer
