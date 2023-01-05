@@ -9,4 +9,7 @@ Aku Fabian Wirawan Mahmudin, saat ini aku adalah mahasiswa S1 Informatika Telkom
 🌟 Hobi ku adalah bermusik dan bermain games
 
 Languages and Tools:
-cplusplus go mysql oracle postgresql python  
+- C++
+- Python
+- Go
+- MySQL 
